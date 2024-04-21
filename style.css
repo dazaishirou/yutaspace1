@@ -429,7 +429,7 @@ display: none;
 #character input[type=checkbox]:checked ~ .content {
   width: 220px;
   height: 130px;
-  top: 50px;
+  top: 90px;
   left: 0px;
   transition: 1s ease-in-out;
   padding: 10px;
